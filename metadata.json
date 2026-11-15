@@ -1,0 +1,6 @@
+{
+  "name": "VarCalc",
+  "description": "Productive OLED dark calculator with automatic variable storage, stacked fraction math rendering, custom reusable function presets, compare mode, and session history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
